@@ -1,28 +1,24 @@
-```javascript
-// server.mjs
-import { createServer } from 'node:http';
-const server = createServer((req, res) => {
-  res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.end('Hello World!\n');
-});
-// starts a simple http server locally on port 3000
-server.listen(3000, '127.0.0.1', () => {
-  console.log('Listening on 127.0.0.1:3000');
-});
-// run with `node server.mjs`
-```
+<h1 align="center">Jordan Diamante</h1>
 
-<!--
-**djiordhan/djiordhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Technologies in focus:**
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-BD002E?style=for-the-badge-slim&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge-slim&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 **General technology knowledge:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge-slim&logo=vite&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge-slim&logo=nginx&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge-slim&logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=for-the-badge-slim&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-slim&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge-slim&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
