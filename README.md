@@ -1,4 +1,4 @@
-<h1 align="center">Jordan Diamante</h1>
+<h1>Jordan Diamante</h1>
 
 🔥 **Technologies in focus:**
 
@@ -8,7 +8,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge-slim&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
-![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
 
 
@@ -22,3 +21,5 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-slim&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge-slim&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge-slime&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge-slim&logo=Spring&logoColor=white)
